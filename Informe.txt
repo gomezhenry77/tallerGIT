@@ -1,0 +1,1 @@
+Lo visto en la clase anterior fueron uso de Git a través de Gitbash
